@@ -1,0 +1,73 @@
+{
+  "interns": [
+    {
+      "id": "4b29",
+      "name": "vaibhavsengar",
+      "email": "vaibhavsengar74@gmail.com",
+      "city": [
+        "Nagpur"
+      ],
+      "college": "gh raisoni  college of eng",
+      "contact": "7675748844"
+    },
+    {
+      "id": "cf09",
+      "name": "vaibhavsengar",
+      "email": "vaibhavsengar74@gmail.com",
+      "city": "Nagpur",
+      "college": "YCCE",
+      "contact": "6453647589"
+    },
+    {
+      "id": "92fc",
+      "name": "vaibhavsengar",
+      "email": "vaibhavsengar74@gmail.com",
+      "city": "Nagpur",
+      "college": [
+        "gh raisoni"
+      ],
+      "contact": "7867567867"
+    }
+  ],
+  "users": [
+    {
+      "username": "Vaibhav",
+      "password": "Vaibhav123",
+      "id": "b400"
+    }
+  ],
+  "mentors": [
+    {
+      "username": "rachit1",
+      "password": "rachit123",
+      "id": "5ae8"
+    }
+  ],
+  "batches": [
+    {
+      "id": "3fe2",
+      "title": [
+        "batch 3"
+      ],
+      "createdOn": "2024-07-24",
+      "duration": "6 months",
+      "description": "build your own mobile app"
+    },
+    {
+      "id": "eeb7",
+      "title": "batch 4",
+      "createdOn": "2024-07-24",
+      "duration": "6 months",
+      "description": "build your own mobile app"
+    },
+    {
+      "id": "6e6d",
+      "title": [
+        "Batch 4"
+      ],
+      "createdOn": "2024-08-08",
+      "duration": "6 months",
+      "description": "developing a webpage"
+    }
+  ]
+}

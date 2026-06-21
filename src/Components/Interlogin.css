@@ -1,0 +1,8 @@
+.log-card{
+    margin-left: 550px;
+    margin-top: 50px;
+    width: 28rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+}
