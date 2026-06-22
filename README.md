@@ -128,9 +128,18 @@ Internship-Management-System/
 ---
 
 ## 📷 Screenshots
-
-> _Add screenshots of the Home page, Intern portal, and Mentor portal here._
-
+<p align="center">
+  <img src="d.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="a.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="c.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="b.png" width="100%"/>
+</p>
 ---
 
 ## 🤝 Contributing
