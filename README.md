@@ -3,6 +3,11 @@
 A full-stack web application built with **React.js** and **JSON Server** for managing interns and internship batches. The system provides separate portals for Interns and Mentors with role-based access and CRUD capabilities.
 
 ---
+## 🖼️ Preview
+
+<p align="center">
+  <img src="d.png" width="100%"/>
+</p>
 
 ## 🚀 Features
 
@@ -128,9 +133,7 @@ Internship-Management-System/
 ---
 
 ## 📷 Screenshots
-<p align="center">
-  <img src="d.png" width="100%"/>
-</p>
+
 <p align="center">
   <img src="a.png" width="100%"/>
 </p>
